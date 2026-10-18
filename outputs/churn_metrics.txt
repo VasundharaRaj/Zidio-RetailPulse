@@ -1,0 +1,20 @@
+Last transaction date: 2011-12-09 12:50:00
+Cutoff date: 2011-09-10 12:50:00
+Customers analysed: 3370
+Churn rate: 43.00%
+Accuracy: 0.6358
+ROC-AUC: 0.6892
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.64      0.67       481
+           1       0.57      0.62      0.60       362
+
+    accuracy                           0.64       843
+   macro avg       0.63      0.63      0.63       843
+weighted avg       0.64      0.64      0.64       843
+
+Confusion Matrix:
+[[310 171]
+ [136 226]]

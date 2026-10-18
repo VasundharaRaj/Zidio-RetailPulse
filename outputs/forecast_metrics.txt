@@ -1,0 +1,8 @@
+RETAILPULSE FORECAST BACKTEST
+Model: mean of the previous three training months
+Evaluation: final three months held out from training
+MAE: 391074.21
+RMSE: 436722.16
+MAPE: 34.30%
+
+These are historical holdout metrics, not a guarantee of future accuracy.

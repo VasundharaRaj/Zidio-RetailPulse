@@ -1,0 +1,8 @@
+RETAILPULSE INVENTORY INTELLIGENCE
+Historical demand is calculated from transaction data.
+Stock-on-hand and supplier lead times are simulated demonstration values.
+These results must not be treated as actual warehouse inventory.
+Reference date in historical dataset: 2011-12-09 12:50:00
+Products analysed: 3941
+High-risk products: 1507
+Medium-risk products: 162
